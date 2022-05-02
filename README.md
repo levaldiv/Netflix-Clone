@@ -42,7 +42,7 @@ Main preview:
 
 Acct preview:
 <p align="center" width="100">
-<img src="/public/assets/netacct.JPG" width="600" height="450"/>
+<img src="/public/assets/netacct.JPG" width="450" height="450"/>
 </p>
 
 Modal preview:
