@@ -2,7 +2,7 @@
 
 How's it going everyone! This here is a Responsive Netflix Clone Challenge! I was tasked to create a semi-clone of the Netflix app with a responsive design (works on lg, md, sm devices). This was definitely another challeging YET exciting build as it focused on TypeScript, API, Firebase.
 
-**NOTE:** 
+**NOTE:** This uses test data, so no credit info is needed as it is provided with Stripe.
 
 
 ## How to use
