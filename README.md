@@ -3,6 +3,7 @@
 How's it going everyone! This here is a Responsive Netflix Clone Challenge! I was tasked to create a semi-clone of the Netflix app with a responsive design (works on lg, md, sm devices). This was definitely another challeging YET exciting build as it focused on TypeScript, API, Firebase.
 
 **NOTE:** This uses test data, so no credit info is needed as it is provided with Stripe.
+**NOTE:** Demo and deployed site will be added soon (fixing some minor issues at the moment)
 
 
 ## How to use
@@ -18,13 +19,13 @@ How's it going everyone! This here is a Responsive Netflix Clone Challenge! I wa
 - To Logout, click on the logo on the top left
 
 
-<!-- Here is a preview:
+Here is a preview:
 <p align="center" width="100">
-<img src="/assets/tred.JPG" width="650" height="500"/>
+<img src="/public/assets/netlogin.JPG" width="650" height="500"/>
 </p>
 
 
-Preview of when PROFILE is selected:
+<!-- Preview of when PROFILE is selected:
 <p align="center" width="100">
 <img src="/assets/profile.JPG" width="650" height="500"/>
 </p> -->
