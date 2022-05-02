@@ -21,7 +21,7 @@ How's it going everyone! This here is a Responsive Netflix Clone Challenge! I wa
 
 Here is a preview:
 <p align="center" width="100">
-<img src="/public/assets/netlogin.JPG" width="650" height="500"/>
+<img src="/public/assets/netlogin.JPG" width="650" height="650"/>
 </p>
 
 
