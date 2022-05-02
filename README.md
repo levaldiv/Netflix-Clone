@@ -27,7 +27,7 @@ Login preview:
 
 Plan preview:
 <p align="center" width="100">
-<img src="/public/assets/netplans.JPG" width="650" height="550"/>
+<img src="/public/assets/netplans.JPG" width="500" height="450"/>
 </p>
 
 Stripe Portal preview:
@@ -42,7 +42,7 @@ Main preview:
 
 Acct preview:
 <p align="center" width="100">
-<img src="/public/assets/netacct.JPG" width="650" height="550"/>
+<img src="/public/assets/netacct.JPG" width="500" height="450"/>
 </p>
 
 Modal preview:
