@@ -33,12 +33,24 @@ Preview of when PROFILE is selected:
 ## Dependencies used
 
 1. [emotion/react](https://emotion.sh/docs/introduction)
-2. [sanity/cli](https://www.sanity.io/get-started?ref=navbar&originUrl=https://sanity.io)
-3. [sanity/client](https://github.com/sanity-io/client)
-4. [ethers](https://github.com/ethers-io/ethers.js)
-5. [react-icons](https://react-icons.github.io/react-icons/)
-6. [react-modal](https://github.com/reactjs/react-modal)
-7. [react-spinners](https://github.com/davidhu2000/react-spinners)
-8. [timeago.js](https://github.com/nmn/react-timeago)
-9. [Hardhat](https://hardhat.org/getting-started/)
+2. [@heroicons/react](https://heroicons.com/)
+3. [@mui/material](https://mui.com/material-ui/material-icons/)
+4. [@stripe/firestore-stripe-payments](https://stripe.com/)
+5. [firebase](https://firebase.google.com/)
+6. [next-transpile-modules](https://www.npmjs.com/package/next-transpile-modules)
+7. [react-hook-form](https://react-hook-form.com/)
+8. [react-hot-toast](https://react-hot-toast.com/)
+9. [react-icons](https://react-icons.github.io/react-icons/)
+10. [react-player](https://github.com/CookPete/react-player)
+11. [recoil](https://recoiljs.org/)
+12. [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
+13. [stripe](https://stripe.com/)
+
+
+
+
+
+
+
+
 
