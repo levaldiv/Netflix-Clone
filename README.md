@@ -20,13 +20,13 @@ How's it going everyone! This here is a Responsive Netflix Clone Challenge! I wa
 - To Logout, click on the logo on the top left
 
 
-Login preview:
+<!-- Login preview:
 <p align="center" width="100">
 <img src="/public/assets/netlogin.JPG" width="650" height="550"/>
-</p>
+</p> -->
 
 
-Plan preview:
+<!-- Plan preview:
 <p align="center" width="100">
 <img src="/public/assets/netplans.JPG" width="600" height="450"/>
 </p>
@@ -34,14 +34,14 @@ Plan preview:
 Stripe Portal preview:
 <p align="center" width="100">
 <img src="/public/assets/netstripeportal.JPG" width="650" height="550"/>
-</p>
+</p> -->
 
 Main preview:
 <p align="center" width="100">
 <img src="/public/assets/netmain.JPG" width="650" height="550"/>
 </p>
 
-Acct preview:
+<!-- Acct preview:
 <p align="center" width="100">
 <img src="/public/assets/netacct.JPG" width="800" height="400"/>
 </p>
@@ -49,7 +49,7 @@ Acct preview:
 Modal preview:
 <p align="center" width="100">
 <img src="/public/assets/netfmodal.JPG" width="650" height="550"/>
-</p>
+</p> -->
 
 
 ## Dependencies used
